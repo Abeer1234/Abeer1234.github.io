@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "My Site-clone",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -38,7 +38,9 @@
     "versionFirst": "4.7.6",
     "uniqCompNum": 34,
     "versionPublish": "4.8.1",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
